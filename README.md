@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lotsofriddles
-- 👀 I’m interested in teaching data science and machine learning
-- 🌱 I’m currently learning unreal engine for game development
+- 👀 I teach data science and machine learning.
+- 🌱 I’m currently learning unreal engine for game development!
 - 📫 Reach me at lotsofriddles@gmail.com
 
 <!---
